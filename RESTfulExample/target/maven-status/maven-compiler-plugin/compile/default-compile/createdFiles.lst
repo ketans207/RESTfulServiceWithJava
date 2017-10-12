@@ -1,0 +1,3 @@
+com\service\rest\FileOperations.class
+com\service\rest\RESTService.class
+com\service\rest\TestJSONService.class
